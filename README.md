@@ -2,7 +2,7 @@
 
 Usage example
 ------------
-```
+```js
 var graphene  = require('graphene-co'),
 co = require('co');
 
