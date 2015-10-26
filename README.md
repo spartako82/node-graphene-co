@@ -1,5 +1,13 @@
 # Graphene library co wrapper
 
+# Prerequisite
+
+Set up an wallet with ws connection enabled
+```
+./cli_wallet -w wallet -s wss://bitshares.openledger.info:443/ws/ -r 127.0.0.1:8099
+```
+url in this example is: ws://127.0.0.1:8099
+
 Usage example
 ------------
 ```js
