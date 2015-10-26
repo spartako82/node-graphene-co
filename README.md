@@ -1,4 +1,4 @@
-# Wrapper for co of graphene library
+# Graphene library co wrapper
 
 Usage example
 ------------
